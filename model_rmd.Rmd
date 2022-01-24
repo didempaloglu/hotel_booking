@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Final Project <img src=\"https://www.wne.uw.edu.pl/themes/wne/images/en-logo.gif\" style=\"float: right;\"/> "
+title: "Machine Learning Project "
 author: "Didem Paloglu"
 date: "`r Sys.Date()`"
 output: html_document
